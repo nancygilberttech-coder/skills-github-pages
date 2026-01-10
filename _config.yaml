@@ -1,0 +1,24 @@
+# Site Settings
+title: Nancy Gilbert | Quality Strategist
+author: Nancy Gilbert
+email: nancygilbert.tech@gmail.com
+description: >-
+  Quality Strategist & Engineering Leader. Analyzing the evolution of 
+  software delivery, the shift toward developer ownership, 
+  and the intersection of quality and speed.
+
+# URL Settings
+permalink: /:categories/:title/
+baseurl: ""
+url: "https://nancygilberttech-coder.github.io"
+
+# Social Links
+# twitter_username: your_handle # Use # to hide this until you have a handle
+github_username: nancygilberttech-coder
+linkedin_username: nancy-gilbert-86a08014
+
+# Build Settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
