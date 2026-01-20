@@ -54,7 +54,7 @@ My mission for 2026 is to master complex architectures, share and involve in tec
 ---
 
 ## Latest Insights
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nancygilberttech-coder&show_icons=true&theme=radical" alt="Nancy's GitHub Stats" />
-</p>
+</p> -->
