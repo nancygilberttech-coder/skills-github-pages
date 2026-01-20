@@ -23,27 +23,27 @@ My mission for 2026 is to master complex architectures, share and involve in tec
 
 ---
 
-### 🛠️ Expertise
-#### **Languages & Development**
+### 🛠️ Skills & Core Expertise
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-#### **Test Engineering & Automation**
-* **Web & UI:** Selenium | WebDriverIO | Playwright | TestNG | Cucumber
-* **Performance:** JMeter | Load Testing | Stress Testing | Scalability Strategy
-* **Specialized Testing:** API Testing (Postman) | UAT | A/B Testing | Accessibility Testing
-* **Frameworks & Tools:** Test Plan & Design | TestRail | JIRA | Confluence
 
-#### **Cloud & DevOps Infrastructure**
-* **AWS Ecosystem:** S3 | DynamoDB | CloudWatch | AWS Code Pipeline
-* **CI/CD:** Jenkins | Continuous Integration | Continuous Delivery | Git | Release Governance
+![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![WebDriverIO](https://img.shields.io/badge/-WebdriverIO-%23EA1B06?style=for-the-badge&logo=webdriverio&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-%232EAD33?style=for-the-badge&logo=Playwright&logoColor=white) ![TestNG](https://img.shields.io/badge/-TestNG-%23FFA500?style=for-the-badge) ![Cucumber](https://img.shields.io/badge/-Cucumber-%2323D96C?style=for-the-badge&logo=Cucumber&logoColor=white)
 
-#### **Core Competencies & Leadership**
-| Strategy & Vision | Operational Excellence |
-| :--- | :--- |
-| Agile Leadership & Roadmapping | Risk Management & Capacity Planning |
-| Program Management | Root Cause Analysis (RCA) |
-| User Story Authoring | Stakeholder & Vendor Management |
-| Backlog Prioritization | Dependency Mapping |
+
+![JMeter](https://img.shields.io/badge/-Apache_JMeter-%23D22128?style=for-the-badge&logo=apachejmeter&logoColor=white) ![Load_Testing](https://img.shields.io/badge/-Load_Testing-%23512DA8?style=for-the-badge) ![Stress_Testing](https://img.shields.io/badge/-Stress_Testing-%23C2185B?style=for-the-badge) ![Scalability_Strategy](https://img.shields.io/badge/-Scalability_Strategy-%2300796B?style=for-the-badge)
+
+
+![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![API_Testing](https://img.shields.io/badge/-API_Testing-%232196F3?style=for-the-badge) ![UAT](https://img.shields.io/badge/-UAT-%23455A64?style=for-the-badge) ![A/B_Testing](https://img.shields.io/badge/-A/B_Testing-%23E64A19?style=for-the-badge) ![Accessibility_Testing](https://img.shields.io/badge/-Accessibility_Testing-%230097A7?style=for-the-badge)
+
+![Test_Plan_Design](https://img.shields.io/badge/-Test_Plan_&_Design-%23689F38?style=for-the-badge) ![TestRail](https://img.shields.io/badge/-TestRail-%2300BCB4?style=for-the-badge) ![Jira](https://img.shields.io/badge/-Jira-%230052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Confluence](https://img.shields.io/badge/-Confluence-%23172B4D?style=for-the-badge&logo=Confluence&logoColor=white)
+
+![S3](https://img.shields.io/badge/-S3-%23569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-%234053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white) ![CloudWatch](https://img.shields.io/badge/-CloudWatch-%23FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white) ![AWS_Code_Pipeline](https://img.shields.io/badge/-AWS_Code_Pipeline-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=for-the-badge&logo=Jenkins&logoColor=white) ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white) ![Continuous_Integration](https://img.shields.io/badge/-Continuous_Integration-%23009688?style=for-the-badge) ![Release_Governance](https://img.shields.io/badge/-Release_Governance-%233F51B5?style=for-the-badge)
+
+![Agile_Leadership](https://img.shields.io/badge/-Agile_Leadership-%237B1FA2?style=for-the-badge) ![Roadmapping](https://img.shields.io/badge/-Roadmapping-%23C2185B?style=for-the-badge) ![Program_Management](https://img.shields.io/badge/-Program_Management-%231976D2?style=for-the-badge) ![Stakeholder_Management](https://img.shields.io/badge/-Stakeholder_Management-%23388E3C?style=for-the-badge)
+
+![Risk_Management](https://img.shields.io/badge/-Risk_Management-%23FBC02D?style=for-the-badge) ![Capacity_Planning](https://img.shields.io/badge/-Capacity_Planning-%23F57C00?style=for-the-badge) ![Root_Cause_Analysis](https://img.shields.io/badge/-RCA-%23795548?style=for-the-badge) ![Dependency_Mapping](https://img.shields.io/badge/-Dependency_Mapping-%23616161?style=for-the-badge)
 
 ---
 
