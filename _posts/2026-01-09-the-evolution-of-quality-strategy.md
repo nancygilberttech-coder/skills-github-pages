@@ -40,6 +40,9 @@ With testing tools becoming a "service" and developers taking on more unit and i
 The answer is **no**, but the role is fundamentally changing. We are seeing the rise of the **QA Strategist.**
 
 ### How the Role is Shifting:
+
+### How the Role is Shifting:
+
 | From: Testing Executor | To: Quality Strategist |
 | :--- | :--- |
 | Writing individual test cases | Designing the overall quality framework |
@@ -48,6 +51,8 @@ The answer is **no**, but the role is fundamentally changing. We are seeing the 
 | Maintaining scripts | Managing "Testing as a Service" platforms |
 
 The QA Strategist doesn't just ask, *"Does this button work?"* They ask, *"How can we build a system where this button is impossible to break?"* They focus on data analysis, risk mitigation, and observability.
+
+
 
 ---
 
