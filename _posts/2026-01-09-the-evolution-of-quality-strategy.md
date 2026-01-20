@@ -57,4 +57,4 @@ The evolution of testing hasn't made quality professionals obsolete; it has free
 
 The future belongs to the **QA Strategist**—the person who doesn't just find the bugs, but designs the systems that prevent them from existing in the first place.
 
-**Are you ready to move from being a tester to a strategist? Let’s discuss in the comments.**
+**Are you ready to move from being a tester to a strategist? Let’s connect on [LinkedIn](https://www.linkedin.com/in/nancy-gilbert-86a08014/)   .**
