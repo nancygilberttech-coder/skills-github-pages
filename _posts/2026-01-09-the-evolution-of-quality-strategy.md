@@ -41,8 +41,6 @@ The answer is **no**, but the role is fundamentally changing. We are seeing the 
 
 ### How the Role is Shifting:
 
-### How the Role is Shifting:
-
 | From: Testing Executor | To: Quality Strategist |
 | :--- | :--- |
 | Writing individual test cases | Designing the overall quality framework |
