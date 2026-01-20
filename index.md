@@ -3,8 +3,8 @@ layout: home
 title: Home
 ---
 
-# 15+ Years of Engineering Quality & Customer Trust
-# Hi there, I'm Nancy! 👋
+## 15+ Years of Engineering Quality & Customer Trust
+### Hi there, I'm Nancy! 👋
 
 ### 🚀 What Drives Me
 I am a **QA Strategist and Program Manager** dedicated to building and delivering resiliency software systems that earn customer trust and excite customers. With over 15+ years of experience across software lifecycle, I specialize in the intersection of **technical scalability** and  being the ""Voice of the Customer (VoC)** driving business solutions.
