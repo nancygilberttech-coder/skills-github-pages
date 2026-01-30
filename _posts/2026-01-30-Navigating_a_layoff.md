@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Navigating a Layoff: A Personal 8-Step Guide to the Modern Interview"
+date: 2026-01-09
+categories: career
+date: 2026-01-30
+---
+
 # Navigating A Layoff: A personal  8-Step Guide to Navigating the Modern Interview
 
 Leaving a long-term role—especially following a layoff—is more than just a career change; it is a profound life transition. One day you are operating within the security of a familiar ecosystem, and the next, you are faced with a sudden surge of uncertainty. 
